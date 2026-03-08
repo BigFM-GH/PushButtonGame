@@ -2,6 +2,7 @@
 
 Ein Reaktionsspiel für Arduino mit großen Tastern, LED‑Anzeige, zwei TM1637‑Displays und einer 32×8 NeoPixel‑Matrix.  
 Das Projekt wurde ursprünglich 2016 begonnen und 2025/2026 modernisiert.
+Die Arbeiten sind noch nicht komplett abgeschlossen.
 
 ## 🎮 Features
 
@@ -78,6 +79,7 @@ Das Projekt wurde ursprünglich 2016 begonnen und 2025/2026 modernisiert.
 
 A reaction-based arcade game for Arduino featuring large push buttons, LED indicators, two TM1637 7‑segment displays, and a 32×8 NeoPixel matrix.  
 The project was originally created in 2016 and updated in 2024/2025.
+The work has not yet been completely finished.
 
 ## 🎮 Features
 
