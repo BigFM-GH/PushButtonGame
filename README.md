@@ -4,6 +4,7 @@ Ein Reaktionsspiel für Arduino mit großen Tastern, LED‑Anzeige, zwei TM1637�
 Das Projekt wurde ursprünglich 2016 begonnen und 2025/2026 modernisiert.
 Die Arbeiten sind noch nicht komplett abgeschlossen.
 Der Schaltplan wird noch folgen.
+3D Dateien auf MakerWorld https://makerworld.com/de/@user_31636811/
 
 ![Push Button Game](images/game_top_view.jpg)
 
@@ -84,6 +85,7 @@ A reaction-based arcade game for Arduino featuring large push buttons, LED indic
 The project was originally created in 2016 and updated in 2024/2025.
 The work has not yet been completely finished.
 The circuit diagram will follow.
+3D files on MakerWorld https://makerworld.com/de/@user_31636811/
 
 ![Push Button Game](images/game_top_view.jpg)
 
